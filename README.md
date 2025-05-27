@@ -25,23 +25,6 @@ This is a full-featured e-commerce web application built with the MERN stack (Mo
 - **Performance-Oriented**: Optimized API calls improve data retrieval speeds by up to 30%.
 - **Conversion-Focused Design**: User experience enhancements and key features are estimated to improve conversion rates by over 35%.
 
-## Getting Started
-
-### Prerequisites
-
-- Node.js and npm
-- MongoDB (local or cloud-based)
-- Optional: Postman for API testing
-
-### Installation
-
-1. **Clone the repository:**
-
-   ```
-   git clone https://github.com/your-username/your-ecommerce-app.git
-   cd your-ecommerce-app
-   ```
-
 ### Image Gallery
 
 
