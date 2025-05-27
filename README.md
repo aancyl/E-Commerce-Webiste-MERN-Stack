@@ -44,6 +44,46 @@ This is a full-featured e-commerce web application built with the MERN stack (Mo
 
 ### Image Gallery
 
+
+## User Interface
+
+### User - Home Page
+
+![User Home Page](https://github.com/aancyl/E-Commerce-Webiste-MERN-Stack/blob/fecda60065c944bb9aa9ba932f8add18c7bfd2b7/Uesr-Home-Page.png)
+
+### User - Empty Cart
+
+![User Empty Cart](https://github.com/aancyl/E-Commerce-Webiste-MERN-Stack/blob/fecda60065c944bb9aa9ba932f8add18c7bfd2b7/User-Empty-Cart.png)
+
+### User - Product Display
+
+![User Product Display](https://github.com/aancyl/E-Commerce-Webiste-MERN-Stack/blob/fecda60065c944bb9aa9ba932f8add18c7bfd2b7/User-Product-Display.png)
+
+### User - Categories
+
+#### Kids Section
+
+![User Kids Section](https://github.com/aancyl/E-Commerce-Webiste-MERN-Stack/blob/fecda60065c944bb9aa9ba932f8add18c7bfd2b7/User-Kids.png)
+
+#### Men Section
+
+![User Men Section](https://github.com/aancyl/E-Commerce-Webiste-MERN-Stack/blob/fecda60065c944bb9aa9ba932f8add18c7bfd2b7/User-Men.png)
+
+#### Women Section
+
+![User Women Section](https://github.com/aancyl/E-Commerce-Webiste-MERN-Stack/blob/fecda60065c944bb9aa9ba932f8add18c7bfd2b7/User-Women.png)
+
+### User - Payment Page
+
+![User Payment](https://github.com/aancyl/E-Commerce-Webiste-MERN-Stack/blob/fecda60065c944bb9aa9ba932f8add18c7bfd2b7/User-Payment.png)
+
+### User - Signup and Login
+
+![User Signup](https://github.com/aancyl/E-Commerce-Webiste-MERN-Stack/blob/fecda60065c944bb9aa9ba932f8add18c7bfd2b7/User-Sighnup.png)
+
+![User Login](https://github.com/aancyl/E-Commerce-Webiste-MERN-Stack/blob/fecda60065c944bb9aa9ba932f8add18c7bfd2b7/User-login.png)
+
+---
 ## Admin Interface
 
 ### Admin - Login Page
@@ -64,41 +104,3 @@ This is a full-featured e-commerce web application built with the MERN stack (Mo
 ![Admin Orders](https://github.com/aancyl/E-Commerce-Webiste-MERN-Stack/blob/043e7a3a9de79e87d1c7dfff16538bb96a535bdf/Admin-Orders.png)
 
 ---
-
-## User Interface
-
-### User - Home Page
-
-![User Home Page](https://github.com/aancyl/E-Commerce-Webiste-MERN-Stack/blob/043e7a3a9de79e87d1c7dfff16538bb96a535bdf/Users-Home-Page.png)
-
-### User - Empty Cart
-
-![User Empty Cart](https://github.com/aancyl/E-Commerce-Webiste-MERN-Stack/blob/043e7a3a9de79e87d1c7dfff16538bb96a535bdf/Users-Empty-Cart.png)
-
-### User - Product Display
-
-![User Product Display](https://github.com/aancyl/E-Commerce-Webiste-MERN-Stack/blob/043e7a3a9de79e87d1c7dfff16538bb96a535bdf/Users-Product-Dispaly.png)
-
-### User - Categories
-
-#### Kids Section
-
-![User Kids Section](https://github.com/aancyl/E-Commerce-Webiste-MERN-Stack/blob/043e7a3a9de79e87d1c7dfff16538bb96a535bdf/Users-Kids.png)
-
-#### Men Section
-
-![User Men Section](https://github.com/aancyl/E-Commerce-Webiste-MERN-Stack/blob/043e7a3a9de79e87d1c7dfff16538bb96a535bdf/Users-Men.png)
-
-#### Women Section
-
-![User Women Section](https://github.com/aancyl/E-Commerce-Webiste-MERN-Stack/blob/043e7a3a9de79e87d1c7dfff16538bb96a535bdf/Users-Women.png)
-
-### User - Payment Page
-
-![User Payment](https://github.com/aancyl/E-Commerce-Webiste-MERN-Stack/blob/043e7a3a9de79e87d1c7dfff16538bb96a535bdf/Users-Payment.png)
-
-### User - Signup and Login
-
-![User Signup](https://github.com/aancyl/E-Commerce-Webiste-MERN-Stack/blob/043e7a3a9de79e87d1c7dfff16538bb96a535bdf/Users-Sighup.png)
-
-![User Login](https://github.com/aancyl/E-Commerce-Webiste-MERN-Stack/blob/043e7a3a9de79e87d1c7dfff16538bb96a535bdf/Users-login.png)
